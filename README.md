@@ -1,7 +1,7 @@
 # Function Plotter
 a GUI program that plots arbitrary user-entered function.
 
-![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/function%20plot%20ex.png "TopologyManager UML")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/function%20plot%20ex.png)
 
 ## Description
 - Take a function of x from the user, e.g., 5*x^3 + 2*x.
@@ -39,19 +39,19 @@ and wrong examples:**
 
 **Valid Input (equation & min x & max x) :**
 
-![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test1%20valid%20Input.jpg "TopologyManager UML")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test1%20valid%20Input.jpg)
 
 **Valid Input (equation & min x & max x) :**
 
-![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test2%20valid%20Input.jpg "DataBase UML")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test2%20valid%20Input.jpg)
 
 **InValid Input (equation) :**
 
-![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test1%20Invalid%20Input.jpg "TopologyManager UML")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test1%20Invalid%20Input.jpg)
 
 **InValid Input (min x | max x) :**
 
-![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test2%20Invalid%20Input.jpg "DataBase UML")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test2%20Invalid%20Input.jpg)
 
 
 ## Usage
