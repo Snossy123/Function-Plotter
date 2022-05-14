@@ -1,7 +1,7 @@
 # Function Plotter
 a GUI program that plots arbitrary user-entered function.
 
-![picture alt](https://raw.githubusercontent.com/Eslam-Walid/TopologyAPI/master/umls/TopologyManager.png "TopologyManager UML")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/function%20plot%20ex.png "TopologyManager UML")
 
 ## Description
 - Take a function of x from the user, e.g., 5*x^3 + 2*x.
@@ -39,19 +39,19 @@ and wrong examples:**
 
 **Valid Input (equation & min x & max x) :**
 
-![picture alt](https://raw.githubusercontent.com/Eslam-Walid/TopologyAPI/master/umls/TopologyManager.png "TopologyManager UML")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test1%20valid%20Input.jpg "TopologyManager UML")
 
 **Valid Input (equation & min x & max x) :**
 
-![picture alt](https://raw.githubusercontent.com/Eslam-Walid/TopologyAPI/master/umls/DataBase.png "DataBase UML")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test2%20valid%20Input.jpg "DataBase UML")
 
 **InValid Input (equation) :**
 
-![picture alt](https://raw.githubusercontent.com/Eslam-Walid/TopologyAPI/master/umls/TopologyManager.png "TopologyManager UML")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test1%20Invalid%20Input.jpg "TopologyManager UML")
 
 **InValid Input (min x | max x) :**
 
-![picture alt](https://raw.githubusercontent.com/Eslam-Walid/TopologyAPI/master/umls/DataBase.png "DataBase UML")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/test2%20Invalid%20Input.jpg "DataBase UML")
 
 
 ## Usage
@@ -68,4 +68,4 @@ import re
 - You can run the whole `test.py` class or run individual methods.
 - Output of [unittest](https://docs.python.org/3/library/unittest.html) testing process from [pycharm](https://www.jetbrains.com/lp/pycharm-anaconda/):
 
-![picture alt](https://raw.githubusercontent.com/Eslam-Walid/TopologyAPI/master/testingOutput.png "Testing Output")
+![picture alt](https://github.com/Snossy123/Function-Plotter/blob/main/test/autotest.jpg "Testing Output")
